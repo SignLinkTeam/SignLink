@@ -7,7 +7,7 @@
 Κατηγορία στην οποία συμμετέχει το project: Γυμνάσια<br>
 <br>Τίτλος έργου: <b>SignLink</b>. Γεφύρωση της επικοινωνίας με την αναγνώριση νοηματικής γλώσσας κάνοντας χρήση τεχνητής νοημοσύνης<br> 
 
-link: https://www.youtube.com/embed/kz-DS27kQ0s?si=Krwc-xK0hN45fs8P
+link: https://youtu.be/kz-DS27kQ0s?si=VtJ-wqs5C_jdx-Au
 
 
 
