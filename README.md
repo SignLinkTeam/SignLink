@@ -7,8 +7,7 @@
 Κατηγορία στην οποία συμμετέχει το project: Γυμνάσια<br>
 <br>Τίτλος έργου: <b>SignLink</b>. Γεφύρωση της επικοινωνίας με την αναγνώριση νοηματικής γλώσσας κάνοντας χρήση τεχνητής νοημοσύνης<br> 
 
-<div>
-    <iframe width="860" height="486" src="https://www.youtube.com/embed/kz-DS27kQ0s?si=Krwc-xK0hN45fs8P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+link: https://www.youtube.com/embed/kz-DS27kQ0s?si=Krwc-xK0hN45fs8P
 
 
 
